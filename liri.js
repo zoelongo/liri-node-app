@@ -6,21 +6,19 @@ var artist = process.argv[2];
 
 var queryUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
 
-//VARS
 var request = require("request");
 var fs = require("fs");
 var keys = require("./keys.js");
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
-//vars to capture user inputs.
 var userOption = process.argv[2]; 
 var inputParameter = process.argv[3];
 
-//Execute function
 UserInputs(userOption, inputParameter);
 
-//FUNCTIONS
+
 function UserInputs (userOption, inputParameter){
+
     switch (userOption) {
     case 'concert-this':
         showConcertInfo(inputParameter);
@@ -39,14 +37,17 @@ function UserInputs (userOption, inputParameter){
     }
 }
 
-//Funtion for Concert Info: Bands in Town
 function showConcertInfo(inputParameter){
+
     var queryUrl = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
     request(queryUrl, function(error, response, body) {
-    // If the request is successful
+
     if (!error && response.statusCode === 200) {
+
         var concerts = JSON.parse(body);
+
         for (var i = 0; i < concerts.length; i++) {  
+
             console.log("**********EVENT INFO*********");  
             fs.appendFileSync("log.txt", "**********EVENT INFO*********\n");//Append in log.txt file
             console.log(i);
@@ -60,29 +61,36 @@ function showConcertInfo(inputParameter){
             console.log("*****************************");
             fs.appendFileSync("log.txt", "*****************************"+"\n");
         }
-    } else{
+
+    } else {
+
       console.log('Error occurred.');
     }
 });}
 
-//Funtion for Music Info: Spotify
 function showSongInfo(inputParameter) {
     if (inputParameter === undefined) {
-        inputParameter = "The Sign"; //default Song
+        inputParameter = "The Sign";
     }
     spotify.search(
+
         {
             type: "track",
             query: inputParameter
         },
+
         function (err, data) {
+
             if (err) {
+
                 console.log("Error occurred: " + err);
                 return;
             }
+
             var songs = data.tracks.items;
 
             for (var i = 0; i < songs.length; i++) {
+
                 console.log("**********SONG INFO*********");
                 fs.appendFileSync("log.txt", "**********SONG INFO*********\n");
                 console.log(i);
@@ -102,9 +110,10 @@ function showSongInfo(inputParameter) {
     );
 };
 
-//Funtion for Movie Info: OMDB
 function showMovieInfo(inputParameter){
+
     if (inputParameter === undefined) {
+
         inputParameter = "Mr. Nobody"
         console.log("-----------------------");
         fs.appendFileSync("log.txt", "-----------------------\n");
@@ -115,9 +124,10 @@ function showMovieInfo(inputParameter){
     }
     var queryUrl = "http://www.omdbapi.com/?t=" + inputParameter + "&y=&plot=short&apikey=b3c0b435";
     request(queryUrl, function(error, response, body) {
-    // If the request is successful
+    
     if (!error && response.statusCode === 200) {
         var movies = JSON.parse(body);
+
         console.log("**********MOVIE INFO*********");  
         fs.appendFileSync("log.txt", "**********MOVIE INFO*********\n");
         console.log("Title: " + movies.Title);
@@ -138,51 +148,34 @@ function showMovieInfo(inputParameter){
         fs.appendFileSync("log.txt", "Actors: " + movies.Actors + "\n");
         console.log("*****************************");  
         fs.appendFileSync("log.txt", "*****************************\n");
-    } else{
+
+    } else {
       console.log('Error occurred.');
     }
 
 });}
 
-//function to get proper Rotten Tomatoes Rating
 function getRottenTomatoesRatingObject (data) {
+
     return data.Ratings.find(function (item) {
        return item.Source === "Rotten Tomatoes";
     });
   }
   
   function getRottenTomatoesRatingValue (data) {
+
     return getRottenTomatoesRatingObject(data).Value;
   }
 
-//function for reading out of random.txt file  
 function showSomeInfo(){
+
 	fs.readFile('random.txt', 'utf8', function(err, data){
+        
 		if (err){ 
+
 			return console.log(err);
 		}
         var dataArr = data.split(',');
         UserInputs(dataArr[0], dataArr[1]);
 	});
 }
-
-UserInputs();
-
-
-//concert-this
-
-    //link up bandsintown api and concatenate query url to isolate
-    //bands/artists and also api key
-    //retrieve venue, venue location, and date of the event
-
-//spotify-this-song
-
-    //will show information about the song that was entered into bash
-    //include artist, song name, album, and link to preview on spotify
-    //default to  "The Sign" by Ace of Base
-
-
-//movie-this
-
-
-//do-what-it-says
