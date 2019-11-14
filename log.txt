@@ -348,3 +348,743 @@ preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45
 album: The Essential "Weird Al" Yankovic
 artist(s): "Weird Al" Yankovic
 *****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Theatre of The Living Arts
+Venue Location: Philadelphia
+Date of the Event: 2019-11-15T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: The Sinclair - *SOLD OUT*
+Venue Location: Cambridge
+Date of the Event: 2019-11-16T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Paramount
+Venue Location: Huntington
+Date of the Event: 2019-11-17T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: The Blind Tiger
+Venue Location: Greensboro
+Date of the Event: 2019-11-19T19:30:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: New Brookland Tavern
+Venue Location: West Columbia
+Date of the Event: 2019-11-20T19:30:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: The Abbey
+Venue Location: Orlando
+Date of the Event: 2019-11-22T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: The Orpheum
+Venue Location: Tampa
+Date of the Event: 2019-11-23T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Masquerade (Hell)
+Venue Location: Atlanta
+Date of the Event: 2019-11-24T19:30:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Saturn
+Venue Location: Birmingham
+Date of the Event: 2019-12-05T20:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: House of Blues New Orleans
+Venue Location: New Orleans
+Date of the Event: 2019-12-06T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: The Secret Group
+Venue Location: Houston
+Date of the Event: 2019-12-07T20:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Barracuda
+Venue Location: Austin
+Date of the Event: 2019-12-08T19:30:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Gas Monkey Live!
+Venue Location: Dallas
+Date of the Event: 2019-12-09T19:30:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: 191 Toole
+Venue Location: Tucson
+Date of the Event: 2019-12-11T19:30:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Casbah - *SOLD OUT*
+Venue Location: San Diego
+Date of the Event: 2019-12-12T20:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Chain Reaction - * SOLD OUT*
+Venue Location: Anaheim
+Date of the Event: 2019-12-13T20:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: The Troubadour - * SOLD OUT*
+Venue Location: West Hollywood
+Date of the Event: 2019-12-14T20:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Great American Music Hall
+Venue Location: San Francisco
+Date of the Event: 2019-12-15T19:30:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Hawthorne Theatre
+Venue Location: Portland
+Date of the Event: 2019-12-17T19:30:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: The Crocodile
+Venue Location: Seattle
+Date of the Event: 2019-12-18T19:30:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: The Complex
+Venue Location: Salt Lake City
+Date of the Event: 2019-12-20T20:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: The Black Sheep
+Venue Location: Colorado Springs
+Date of the Event: 2019-12-21T20:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: The Waiting Room Lounge
+Venue Location: Omaha
+Date of the Event: 2019-12-22T19:30:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Temple Newsam
+Venue Location: Leeds
+Date of the Event: 2020-05-20T19:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Hatfield Park
+Venue Location: Hatfield
+Date of the Event: 2020-05-24T19:00:00
+*****************************
+**********MOVIE INFO*********
+Title: Goodfellas
+Release Year: 1990
+IMDB Rating: 8.7
+Rotten Tomatoes Rating: 96%
+Country of Production: USA
+Language: English, Italian
+Plot: The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.
+Actors: Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Theatre of The Living Arts
+Venue Location: Philadelphia
+Date of the Event: 2019-11-15T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: The Sinclair - *SOLD OUT*
+Venue Location: Cambridge
+Date of the Event: 2019-11-16T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Paramount
+Venue Location: Huntington
+Date of the Event: 2019-11-17T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: The Blind Tiger
+Venue Location: Greensboro
+Date of the Event: 2019-11-19T19:30:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: New Brookland Tavern
+Venue Location: West Columbia
+Date of the Event: 2019-11-20T19:30:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: The Abbey
+Venue Location: Orlando
+Date of the Event: 2019-11-22T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: The Orpheum
+Venue Location: Tampa
+Date of the Event: 2019-11-23T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Masquerade (Hell)
+Venue Location: Atlanta
+Date of the Event: 2019-11-24T19:30:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Saturn
+Venue Location: Birmingham
+Date of the Event: 2019-12-05T20:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: House of Blues New Orleans
+Venue Location: New Orleans
+Date of the Event: 2019-12-06T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: The Secret Group
+Venue Location: Houston
+Date of the Event: 2019-12-07T20:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Barracuda
+Venue Location: Austin
+Date of the Event: 2019-12-08T19:30:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Gas Monkey Live!
+Venue Location: Dallas
+Date of the Event: 2019-12-09T19:30:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: 191 Toole
+Venue Location: Tucson
+Date of the Event: 2019-12-11T19:30:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Casbah - *SOLD OUT*
+Venue Location: San Diego
+Date of the Event: 2019-12-12T20:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Chain Reaction - * SOLD OUT*
+Venue Location: Anaheim
+Date of the Event: 2019-12-13T20:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: The Troubadour - * SOLD OUT*
+Venue Location: West Hollywood
+Date of the Event: 2019-12-14T20:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Great American Music Hall
+Venue Location: San Francisco
+Date of the Event: 2019-12-15T19:30:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Hawthorne Theatre
+Venue Location: Portland
+Date of the Event: 2019-12-17T19:30:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: The Crocodile
+Venue Location: Seattle
+Date of the Event: 2019-12-18T19:30:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: The Complex
+Venue Location: Salt Lake City
+Date of the Event: 2019-12-20T20:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: The Black Sheep
+Venue Location: Colorado Springs
+Date of the Event: 2019-12-21T20:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: The Waiting Room Lounge
+Venue Location: Omaha
+Date of the Event: 2019-12-22T19:30:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Temple Newsam
+Venue Location: Leeds
+Date of the Event: 2020-05-20T19:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Hatfield Park
+Venue Location: Hatfield
+Date of the Event: 2020-05-24T19:00:00
+*****************************
+**********MOVIE INFO*********
+Title: Goodfellas
+Release Year: 1990
+IMDB Rating: 8.7
+Rotten Tomatoes Rating: 96%
+Country of Production: USA
+Language: English, Italian
+Plot: The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.
+Actors: Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco
+*****************************
+**********SONG INFO*********
+0
+song name: Drag The Lake
+preview song: https://p.scdn.co/mp3-preview/34171f0a432cc84a5875273f3f5f21982ca86f68?cid=0704597e747a4c76804d3c96ce818bac
+album: Misery
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+1
+song name: Pittsburgh - No Intro
+preview song: https://p.scdn.co/mp3-preview/a5a1bda06f439825e75e9a1c6e4d678225f219f2?cid=0704597e747a4c76804d3c96ce818bac
+album: Let The Ocean Take Me
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+2
+song name: Feels Like I'm Dying
+preview song: https://p.scdn.co/mp3-preview/258ead63d4b7a71d961fda27f80f4a10ec444f78?cid=0704597e747a4c76804d3c96ce818bac
+album: Misery
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+3
+song name: Ivy (Doomsday)
+preview song: https://p.scdn.co/mp3-preview/03ca5bc9bef62f2907f7258354b406fab0a49ce4?cid=0704597e747a4c76804d3c96ce818bac
+album: Misery
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+4
+song name: All Fucked Up
+preview song: https://p.scdn.co/mp3-preview/14a3780300e2c07ef40c0372a89860946247062c?cid=0704597e747a4c76804d3c96ce818bac
+album: This Could Be Heartbreak
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+5
+song name: All My Friends Are Dead
+preview song: https://p.scdn.co/mp3-preview/08761606ad21de6145791ac0d5691ec128876c29?cid=0704597e747a4c76804d3c96ce818bac
+album: All My Friends Are Dead
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+6
+song name: Don't Lean On Me
+preview song: https://p.scdn.co/mp3-preview/7a29833f3c4043c54ca292409b18d3a197a7b1ff?cid=0704597e747a4c76804d3c96ce818bac
+album: Let The Ocean Take Me
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+7
+song name: Romances
+preview song: https://p.scdn.co/mp3-preview/ed36eee9a7e0a28fb50b888384e2bc43b4d618c3?cid=0704597e747a4c76804d3c96ce818bac
+album: Romances
+artist(s): Amity Cadet
+*****************************
+**********SONG INFO*********
+8
+song name: D.I.E
+preview song: https://p.scdn.co/mp3-preview/5ce010391c91a07d543c12ae918b452b8232c394?cid=0704597e747a4c76804d3c96ce818bac
+album: Misery
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+9
+song name: Open Letter
+preview song: https://p.scdn.co/mp3-preview/487e2ef5464d6321d78743935873b1c607a196c4?cid=0704597e747a4c76804d3c96ce818bac
+album: Chasing Ghosts
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+10
+song name: Set Me Free
+preview song: https://p.scdn.co/mp3-preview/988a88ead8a916fc4b1ca35d9fa967a274927b52?cid=0704597e747a4c76804d3c96ce818bac
+album: Misery
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+11
+song name: The Gifthorse
+preview song: https://p.scdn.co/mp3-preview/67f18b2f313d3658fc0d71ec8ecbbb1b2ff617dc?cid=0704597e747a4c76804d3c96ce818bac
+album: Misery
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+12
+song name: I Bring The Weather With Me
+preview song: https://p.scdn.co/mp3-preview/18419133820f7c08e4454b1e2314d5b509f9844a?cid=0704597e747a4c76804d3c96ce818bac
+album: This Could Be Heartbreak
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+13
+song name: Can’t Feel My Face
+preview song: null
+album: Punk Goes Pop, Vol. 7
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+14
+song name: This Could Be Heartbreak
+preview song: https://p.scdn.co/mp3-preview/777ed7a14ec824de85e17f9bc217b2c402af5692?cid=0704597e747a4c76804d3c96ce818bac
+album: This Could Be Heartbreak
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+15
+song name: Burn Alive
+preview song: https://p.scdn.co/mp3-preview/c5eb3b26c1a04e02415426d792de56138a432efb?cid=0704597e747a4c76804d3c96ce818bac
+album: Misery
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+16
+song name: Holier Than Heaven
+preview song: https://p.scdn.co/mp3-preview/851b41095322f296b52a1254f430a8732332dfb9?cid=0704597e747a4c76804d3c96ce818bac
+album: Misery
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+17
+song name: Kick Rocks
+preview song: https://p.scdn.co/mp3-preview/6bd7295e72559398d1c747ff21063a47cc53935b?cid=0704597e747a4c76804d3c96ce818bac
+album: Misery
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+18
+song name: Born To Die
+preview song: https://p.scdn.co/mp3-preview/38af1f9a609d81d6b22c975b977d941eb7bf662c?cid=0704597e747a4c76804d3c96ce818bac
+album: Chasing Ghosts (Special Edition)
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+19
+song name: Misery
+preview song: https://p.scdn.co/mp3-preview/03428252c1f4aca687b54983bfeb6e124fbea570?cid=0704597e747a4c76804d3c96ce818bac
+album: Misery
+artist(s): The Amity Affliction
+*****************************
+**********SONG INFO*********
+0
+song name: Alameda
+preview song: https://p.scdn.co/mp3-preview/a68a4af2fcb826b74bf925d9e8eb77ad08cf7eb2?cid=0704597e747a4c76804d3c96ce818bac
+album: Either/Or
+artist(s): Elliott Smith
+*****************************
+**********SONG INFO*********
+1
+song name: Over Alameda
+preview song: https://p.scdn.co/mp3-preview/87b550e1e5fe968271c71e7c0e857376b78bb7d4?cid=0704597e747a4c76804d3c96ce818bac
+album: The Saint Of Lost Causes
+artist(s): Justin Townes Earle
+*****************************
+**********SONG INFO*********
+2
+song name: Alameda
+preview song: https://p.scdn.co/mp3-preview/b6d3af9097850ce5ed3019053e893a3d2fd5e575?cid=0704597e747a4c76804d3c96ce818bac
+album: Either/Or: Expanded Edition
+artist(s): Elliott Smith
+*****************************
+**********SONG INFO*********
+3
+song name: Popurri de Conjunto Alameda
+preview song: https://p.scdn.co/mp3-preview/b5bce0ebdcfe6e751d48f45e3fa90872e5521bf6?cid=0704597e747a4c76804d3c96ce818bac
+album: 12 Indudablemente
+artist(s): Bravos de Ojinaga
+*****************************
+**********SONG INFO*********
+4
+song name: Free Bird - Live At Oakland-Alameda County Coliseum/1977
+preview song: null
+album: Freebird The Movie (Original Motion Picture Soundtrack/Reissue)
+artist(s): Lynyrd Skynyrd
+*****************************
+**********SONG INFO*********
+5
+song name: La Negra Merecumbe
+preview song: https://p.scdn.co/mp3-preview/f193da6aa399fb2907f25a9077e6460c7659f66d?cid=0704597e747a4c76804d3c96ce818bac
+album: Me Vas A Recordar
+artist(s): Banda Alameda De Arturo Macias
+*****************************
+**********SONG INFO*********
+6
+song name: Alameda
+preview song: https://p.scdn.co/mp3-preview/67d4de0265228b8b9eb70245c1978027af01a396?cid=0704597e747a4c76804d3c96ce818bac
+album: Block Wars
+artist(s): The Game
+*****************************
+**********SONG INFO*********
+7
+song name: Into the Great Wide Open - Live at Oakland-Alameda County Coliseum, Oakland, CA, 11/24/91
+preview song: https://p.scdn.co/mp3-preview/38164c806bef1e249ef99a7857360fce85693acf?cid=0704597e747a4c76804d3c96ce818bac
+album: An American Treasure (Deluxe)
+artist(s): Tom Petty
+*****************************
+**********SONG INFO*********
+8
+song name: Alameda Weed
+preview song: https://p.scdn.co/mp3-preview/95b066622bf727ccbb8d1b118affcbccc65120da?cid=0704597e747a4c76804d3c96ce818bac
+album: Posfácio
+artist(s): Costa Gold
+*****************************
+**********SONG INFO*********
+9
+song name: DAWGS
+preview song: https://p.scdn.co/mp3-preview/17b2dee3f7e7a7766d528ba90dd656fc1a8e4bc9?cid=0704597e747a4c76804d3c96ce818bac
+album: Alameda 1000 EP
+artist(s): Holly
+*****************************
+**********SONG INFO*********
+10
+song name: Untitled
+preview song: https://p.scdn.co/mp3-preview/bf362a52360dff61d2b6467ea893fa8b39d3f47d?cid=0704597e747a4c76804d3c96ce818bac
+album: Como Me Gusta Quererte
+artist(s): Conjunto Alameda
+*****************************
+**********SONG INFO*********
+11
+song name: Tu Hijo el Mayor
+preview song: https://p.scdn.co/mp3-preview/167f8ae3927e87b5058fefa9188135ccc069e968?cid=0704597e747a4c76804d3c96ce818bac
+album: Propiedad Privada
+artist(s): Conjunto Alameda
+*****************************
+**********SONG INFO*********
+12
+song name: Propiedad Privada
+preview song: https://p.scdn.co/mp3-preview/7e5ae86fa2305c74dbc4f39e5a8cf72142b9a8b0?cid=0704597e747a4c76804d3c96ce818bac
+album: Propiedad Privada
+artist(s): Conjunto Alameda
+*****************************
+**********SONG INFO*********
+13
+song name: Mi Corazon Esta Llorando
+preview song: https://p.scdn.co/mp3-preview/d12326b4303d66fe1b83223b55817413ffd1cca4?cid=0704597e747a4c76804d3c96ce818bac
+album: Propiedad Privada
+artist(s): Conjunto Alameda
+*****************************
+**********SONG INFO*********
+14
+song name: Union Station (800 N. Alameda St.)
+preview song: https://p.scdn.co/mp3-preview/817aac5e05baf04f2f0da0ae864f5ecf99b772ba?cid=0704597e747a4c76804d3c96ce818bac
+album: The Ambassador
+artist(s): Gabriel Kahane
+*****************************
+**********SONG INFO*********
+15
+song name: Piensa Morena
+preview song: https://p.scdn.co/mp3-preview/35b0fa24c1d96f998096dec1766674a26bf06350?cid=0704597e747a4c76804d3c96ce818bac
+album: Propiedad Privada
+artist(s): Conjunto Alameda
+*****************************
+**********SONG INFO*********
+16
+song name: Strip Money
+preview song: https://p.scdn.co/mp3-preview/3d9971a750d60ed3f71ae4bf058c80540e89c923?cid=0704597e747a4c76804d3c96ce818bac
+album: Alameda 1000 EP
+artist(s): Holly
+*****************************
+**********SONG INFO*********
+17
+song name: Tragame Tierra
+preview song: https://p.scdn.co/mp3-preview/e69754d1f422da9adec4de6bf49ee5ff4275b0a7?cid=0704597e747a4c76804d3c96ce818bac
+album: Como Me Gusta Quererte
+artist(s): Conjunto Alameda
+*****************************
+**********SONG INFO*********
+18
+song name: Alameda (Alternative Version)
+preview song: https://p.scdn.co/mp3-preview/e65dfce74e8270c6d4639fe3e3ef04fb6732c5ba?cid=0704597e747a4c76804d3c96ce818bac
+album: Alternate Versions from Either/Or - EP
+artist(s): Elliott Smith
+*****************************
+**********SONG INFO*********
+19
+song name: Alameda
+preview song: https://p.scdn.co/mp3-preview/3f51f91076fca3dbc918c2bbe0c8cada564432bf?cid=0704597e747a4c76804d3c96ce818bac
+album: An Introduction to Elliott Smith
+artist(s): Elliott Smith
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=0704597e747a4c76804d3c96ce818bac
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=0704597e747a4c76804d3c96ce818bac
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=0704597e747a4c76804d3c96ce818bac
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=0704597e747a4c76804d3c96ce818bac
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=0704597e747a4c76804d3c96ce818bac
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=0704597e747a4c76804d3c96ce818bac
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=0704597e747a4c76804d3c96ce818bac
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=0704597e747a4c76804d3c96ce818bac
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=0704597e747a4c76804d3c96ce818bac
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=0704597e747a4c76804d3c96ce818bac
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+12
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=0704597e747a4c76804d3c96ce818bac
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=0704597e747a4c76804d3c96ce818bac
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=0704597e747a4c76804d3c96ce818bac
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=0704597e747a4c76804d3c96ce818bac
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=0704597e747a4c76804d3c96ce818bac
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=0704597e747a4c76804d3c96ce818bac
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=0704597e747a4c76804d3c96ce818bac
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
