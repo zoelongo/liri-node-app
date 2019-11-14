@@ -4,8 +4,10 @@
 
 ---
 
-##About the App
+## About the App
+
 LIRI, standing for Language Interpretation and Recognition Interface, is a command line node application that takes in parameters and returns data. The user has a choice of four different commands, and then can specify the search parameters. The four commands are:
+
 *`concert-this`
 `concert-this takes in a band and returns upcoming concerts using the bandsintown API.`
 *`spotify-this-song`
@@ -17,7 +19,7 @@ LIRI, standing for Language Interpretation and Recognition Interface, is a comma
 
 ---
 
-##How to use LIRI
+## How to use LIRI
 
 ##**Instructions**
 
@@ -52,6 +54,22 @@ LIRI, standing for Language Interpretation and Recognition Interface, is a comma
     node liri.js do-what-it-says
 
     ![Results](images/do-what-it-says.png)
+
+---
+
+## TECHNOLOGIES USED
+* Javascript
+* Nodejs
+* Node packages:
+    * Node-Spotify-API
+    * Request
+    * Moment
+    * DotEnv
+* APIs used:
+    * Bands in Town
+    * OMDB
+* Git
+* GitHub
 
 
 
