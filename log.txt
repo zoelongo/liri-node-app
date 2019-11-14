@@ -1,0 +1,50 @@
+**********EVENT INFO*********
+0
+Name of the Venue: Mandalay Bay Events Center
+Venue Location: Las Vegas
+Date of the Event: 2019-12-30T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Mandalay Bay Events Center
+Venue Location: Las Vegas
+Date of the Event: 2019-12-31T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Estadio Centenario
+Venue Location: Montevideo
+Date of the Event: 2020-03-10T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Campo Argentino De Polo
+Venue Location: Buenos Aires
+Date of the Event: 2020-03-12T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Parque Salitre Magico
+Venue Location: Bogota
+Date of the Event: 2020-03-14T19:00:00
+*****************************
+**********MOVIE INFO*********
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country of Production: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+*****************************
+**********MOVIE INFO*********
+Title: Goodfellas
+Release Year: 1990
+IMDB Rating: 8.7
+Rotten Tomatoes Rating: 96%
+Country of Production: USA
+Language: English, Italian
+Plot: The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.
+Actors: Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco
+*****************************
