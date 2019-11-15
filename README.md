@@ -40,6 +40,8 @@ LIRI, standing for Language Interpretation and Recognition Interface, is a comma
 
     `node liri.js concert-this <name of artist or band>`
 
+    Results:
+
     ![Results](images/concert-this.png)
 
     **Command 2 - `spotify-this-song`**
@@ -47,6 +49,8 @@ LIRI, standing for Language Interpretation and Recognition Interface, is a comma
     In your command line, run the following code: 
 
     `node liri.js spotify-this-song <name of song>`
+
+    Results:
 
     ![Results](images/spotify-this-song.png)
 
@@ -56,6 +60,8 @@ LIRI, standing for Language Interpretation and Recognition Interface, is a comma
 
     `node liri.js movie-this <name of movie>`
 
+    Results:
+
     ![Results](images/movie-this.png)
 
     **Command 4 - `do-what-it-says`**
@@ -63,6 +69,8 @@ LIRI, standing for Language Interpretation and Recognition Interface, is a comma
     With this command, it is reading another command off of the file random.txt. Change the file contents according to what command you would wish to execute. Then in your command line, run the following code:
 
     `node liri.js do-what-it-says`
+
+    Results:
 
     ![Results](images/do-what-it-says.png)
 
